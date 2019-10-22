@@ -1,0 +1,3 @@
+VAR = 16
+P_D = 0.9
+OCCLUSION = 3.8
